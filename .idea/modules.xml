@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smartExtensionAPI/smartExtensionAPI.iml" filepath="$PROJECT_DIR$/smartExtensionAPI/smartExtensionAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartExtensionUtils/smartExtensionUtils.iml" filepath="$PROJECT_DIR$/smartExtensionUtils/smartExtensionUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svb_sw_rocket/svb_sw_rocket.iml" filepath="$PROJECT_DIR$/svb_sw_rocket/svb_sw_rocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svb_sw_rocket_studio.iml" filepath="$PROJECT_DIR$/svb_sw_rocket_studio.iml" />
+    </modules>
+  </component>
+</project>

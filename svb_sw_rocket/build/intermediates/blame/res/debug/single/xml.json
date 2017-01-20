@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/svb_sw_rocket/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/svb_sw_rocket/src/main/res/xml/preference.xml"
+    },
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/svb_sw_rocket/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/svb_sw_rocket/src/main/res/xml/preference.xml"
+    }
+]

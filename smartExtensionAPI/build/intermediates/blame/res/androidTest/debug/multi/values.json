@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionAPI/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1777,
+                    "endColumn": 54,
+                    "endOffset": 1827
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionAPI/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endColumn": 54,
+                        "endOffset": 1827
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionAPI/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1777,
+                    "endColumn": 54,
+                    "endOffset": 1827
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionAPI/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endColumn": 54,
+                        "endOffset": 1827
+                    }
+                }
+            }
+        ]
+    }
+]

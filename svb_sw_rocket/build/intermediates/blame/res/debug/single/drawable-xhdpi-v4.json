@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/svb_sw_rocket/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/svb_sw_rocket/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/svb_sw_rocket/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/svb_sw_rocket/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/svb_sw_rocket/build/intermediates/res/merged/release/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/svb_sw_rocket/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 81,
+                        "endOffset": 239
+                    }
+                }
+            }
+        ]
+    }
+]

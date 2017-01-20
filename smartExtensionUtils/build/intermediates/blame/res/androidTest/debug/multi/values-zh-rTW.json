@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/res/merged/androidTest/debug/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 59,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 59,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 58,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 58,
+                        "endOffset": 222
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/res/merged/androidTest/debug/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 59,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 59,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 58,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 58,
+                        "endOffset": 222
+                    }
+                }
+            }
+        ]
+    }
+]

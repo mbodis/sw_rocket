@@ -1,0 +1,65 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From SmartExtensionAPI:
+* build.gradle
+* images/
+* images/capabilities_database.png
+* images/control_api_extension_lifecycle.png
+* images/notification_database.png
+* images/notification_operating_environment.png
+* images/registration_database.png
+From svb_sw_rocket:
+* README
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In SmartExtensionAPI:
+* AndroidManifest.xml => smartExtensionAPI/src/main/AndroidManifest.xml
+* assets/ => smartExtensionAPI/src/main/assets
+* res/ => smartExtensionAPI/src/main/res/
+* src/ => smartExtensionAPI/src/main/java/
+In SmartExtensionUtils:
+* AndroidManifest.xml => smartExtensionUtils/src/main/AndroidManifest.xml
+* assets/ => smartExtensionUtils/src/main/assets
+* lint.xml => smartExtensionUtils/lint.xml
+* res/ => smartExtensionUtils/src/main/res/
+* src/ => smartExtensionUtils/src/main/java/
+In svb_sw_rocket:
+* AndroidManifest.xml => svb_sw_rocket/src/main/AndroidManifest.xml
+* assets/ => svb_sw_rocket/src/main/assets
+* res/ => svb_sw_rocket/src/main/res/
+* src/ => svb_sw_rocket/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

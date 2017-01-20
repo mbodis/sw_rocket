@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/res/merged/androidTest/debug/layout/smart_watch_widget.xml",
+        "source": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/layout/smart_watch_widget.xml"
+    },
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/res/merged/androidTest/debug/layout/smart_watch_notification_widget.xml",
+        "source": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/layout/smart_watch_notification_widget.xml"
+    },
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/res/merged/androidTest/debug/layout/smart_watch_widget.xml",
+        "source": "/home/mbodis/Documents/svab/it/android/git_projects/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/layout/smart_watch_widget.xml"
+    },
+    {
+        "merged": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/res/merged/androidTest/debug/layout/smart_watch_notification_widget.xml",
+        "source": "/home/mbodis/Documents/svab/it/android/workspace_sony_sw/svb_sw_rocket_studio/smartExtensionUtils/build/intermediates/bundles/debug/res/layout/smart_watch_notification_widget.xml"
+    }
+]
